@@ -1,0 +1,34 @@
+const images = [
+    {
+        id:1,
+        images: "https://api.dominos.co.in/prod-olo-api/images/dynamicOffers/Sunday_Special_offers_AC_202410201729399304_202410211729485978_202410221729573259_202411201732090902_202412261735198159_202503181742280842_202503181742280870.jpg?ver=0.0.1"
+    },
+     {
+        id:2,
+        images: "https://api.dominos.co.in/prod-olo-api/images/dynamicOffers/Sunday_Special_offers_AC_202410201729399304_202410211729485978_202410221729573259_202411201732090902_202412261735198159_202503181742280842_202503181742280870.jpg?ver=0.0.1"
+    },
+    {
+        id:3,
+        images: "https://api.dominos.co.in/prod-olo-api/images/dynamicOffers/Sunday_Special_offers_AC_202410201729399304_202410211729485978_202410221729573259_202411201732090902_202412261735198159_202503181742280842_202503181742280870.jpg?ver=0.0.1"
+    },
+     {
+        id:4,
+        images: "https://api.dominos.co.in/prod-olo-api/images/dynamicOffers/Sunday_Special_offers_AC_202410201729399304_202410211729485978_202410221729573259_202411201732090902_202412261735198159_202503181742280842_202503181742280870.jpg?ver=0.0.1"
+    },
+    {
+        id:5,
+        images: "https://api.dominos.co.in/prod-olo-api/images/dynamicOffers/Sunday_Special_offers_AC_202410201729399304_202410211729485978_202410221729573259_202411201732090902_202412261735198159_202503181742280842_202503181742280870.jpg?ver=0.0.1"
+    },
+    {
+        id:6,
+        images: "https://api.dominos.co.in/prod-olo-api/images/dynamicOffers/Sunday_Special_offers_AC_202410201729399304_202410211729485978_202410221729573259_202411201732090902_202412261735198159_202503181742280842_202503181742280870.jpg?ver=0.0.1"
+    },
+    {
+        id:7,
+        images: "https://api.dominos.co.in/prod-olo-api/images/dynamicOffers/Sunday_Special_offers_AC_202410201729399304_202410211729485978_202410221729573259_202411201732090902_202412261735198159_202503181742280842_202503181742280870.jpg?ver=0.0.1"
+    },
+    
+
+]
+
+export default images;
