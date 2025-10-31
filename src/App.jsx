@@ -6,6 +6,7 @@ import Cards from "./Components/Card"
 import PizzaVeraity from "./Components/PizzaVeraity"
 import PizzaVeraity2 from "./Components/PizzaVeraity2"
 import PopularDelight from "./Components/PopularDelight"
+import Footer from "./Components/footer";
 const App = () => {
   return (
     <div className="grid grid-col-1 grid-row-1 gap-3 mb-5">
@@ -23,8 +24,9 @@ const App = () => {
      <div className="-mt-8.5 overflow-scroll">
 
      <PizzaVeraity2 />
-     <h1>hello</h1>
      </div>
+      <span className="w-full h-3 bg-gray-200"/>
+<Footer />
     </div>
   )
 }
